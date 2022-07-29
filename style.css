@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Montserrat:wght@300&display=swap');
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+#navbarMonstera{
+    display: flex;
+    justify-content: space-between;
+}
+#navFirst img{
+    position: absolute;
+top: 4%;
+left: 5%;
+}
+
+#navMid{
+    display: flex;
+    justify-content:space-between;
+    position: absolute;
+    left: 20%;
+}
+#navMid>div{
+    padding: 0px 11px;
+    font-size: 21px;
+    margin-left: 14%;
+}
+
+#navMid > div:hover{
+    cursor: pointer;
+    color: black;
+    text-decoration: underline;
+}
+#navEnd{
+    display: flex;
+    justify-content: space-between;
+}
+
+#navEnd>div>img{
+    padding: 23px 26px;
+    height: 28px;
+
+}
+
+#navEnd>div>img:hover{
+    color: black;
+    text-decoration: underline;
+    cursor: pointer;
+}
+#midWhole{
+    display: flex;
+    justify-content: space-between;
+}
+#midWholePart1{
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+}
+#midWholePart11{
+    position: absolute;
+    top: 14%;
+    left: 2%;
+    font-size: 22px;
+    width: 46%;
+}
+#monstera{
+    font-size: 109px;
+}
+.li2{
+    position: absolute;
+    top: 50%;
+}
+.li3{
+    position: absolute;
+    top: 60%;
+}
+
+#midWholePart121{
+    position: absolute;
+    top: 62%;
+    left: 5%;
+
+}
+
+#midWholePart122{
+    position: absolute;
+    top: 31%;
+    left: 103%;
+}
+
+.discover h1{
+    cursor: pointer;
+    color: #FFFF;
+    font-size: 37px;
+    padding: 8px 40px;
+    background-color: #40744a ;
+    border-radius: 27px;  
+}
+.discover #midWholePart122{
+    position: absolute;
+    left: 90%;
+    top: 38%;
+}
+
+
+
+#midWholePart13{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 80%;
+    width: 61%;
+
+}
+
+.midWholePart13Parts{
+    display: flex;
+    width: 30%;
+}
+/* #feeding{
+    position: absolute;
+    bottom: 23%;
+} */
+#feed{
+    position: absolute;
+    top: 0%;
+    left: 12%;
+    width: 24%;
+}
+
+#feed h4{
+    font-size: 30px;
+    margin: 0;
+
+}
+
+#light{
+    position: absolute;
+    bottom: 23%;
+    left: 37%;
+}
+
+#light2{
+    position: absolute;
+    top: 0%;
+    left: 42%;
+    width: 24%;
+}
+
+#light2 h4{
+    font-size: 30px;
+    margin: 0;  
+}
+
+
+#care{
+    position: absolute;
+    bottom: 23%;
+    left: 67%;
+}
+#care2{
+    position: absolute;
+    top: 0%;
+    left: 74%;
+    width: 24%;
+}
+
+
+#care2 h4{
+    font-size: 30px;
+    margin: 0;   
+}
+
+
+
+ /* .midWholePart13Parts h4{
+    font-size: 31px;
+    position: absolute;
+    top: 5%;
+} */
+
+ /* .text{
+    position: absolute;
+    bottom: -8%;
+    width: 23%;
+    left: 11%;
+
+} */
