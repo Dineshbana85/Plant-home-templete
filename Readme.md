@@ -12,4 +12,4 @@ By Dinesh Bana
 
 ![badge](https://img.shields.io/badge/Plant--Home--Templete-HTML%20%26%20CSS-green)
 
-## Project Link: [My Website](https://crypto-webpage.netlify.app/)
+## Project Link: [My Website](https://plant-home-templete.netlify.app/)
